@@ -1,0 +1,52 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mcafamily.in" resolutions="1x" timestamp="1483358700426">
+  <folder name="assets">
+    <file name="mcafamilycalendar.dmg" crc="137643009" seo="true" mt="1483356850000"/>
+    <file name="mcafamilycalendar.exe" crc="202060796" seo="true" mt="1483357081000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3870585643" ref="index"/>
+    <file name="nomq_index.css" crc="4243404523" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="calendar icon-01 (1).png" crc="236990867" seo="true" ref="index"/>
+    <file name="laptop copy.png" crc="370659210" seo="true" ref="index"/>
+    <file name="home.gif" crc="379358966" seo="true" ref="index"/>
+    <file name="home snaps.jpg" crc="191437531" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="month snap.jpg" crc="3901610793" seo="true" ref="index"/>
+    <file name="menu snap.jpg" crc="301941394" seo="true" ref="index"/>
+    <file name="event snap.jpg" crc="202242639" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="final logo ai file grey copy.png" crc="4238209701" seo="true" ref="index"/>
+    <file name="laptop copy-crop-u223.png" crc="461844831" ref="index"/>
+    <file name="home snaps349x439.jpg" crc="3787869908" seo="true" ref="index"/>
+    <file name="month snap349x439.jpg" crc="4039029821" seo="true" ref="index"/>
+    <file name="menu snap349x439.jpg" crc="402173456" seo="true" ref="index"/>
+    <file name="event snap349x439.jpg" crc="208058025" seo="true" ref="index"/>
+    <file name="calendar icon-01 (1)188x181.png" crc="4031424467" seo="true" ref="index"/>
+    <file name="laptop copy766x518.png" crc="3814469711" seo="true" ref="index"/>
+    <file name="laptop copy646x437.png" crc="4167452786" seo="true" ref="index"/>
+    <file name="laptop copy647x438.png" crc="4215529143" seo="true" ref="index"/>
+    <file name="laptop copy537x364.png" crc="267396554" seo="true" ref="index"/>
+    <file name="calendar icon-01 (1)209x202.png" crc="4205716407" seo="true" ref="index"/>
+    <file name="home snaps286x360.jpg" crc="302850693" seo="true" ref="index"/>
+    <file name="month snap286x360.jpg" crc="306419073" seo="true" ref="index"/>
+    <file name="menu snap286x360.jpg" crc="449164697" seo="true" ref="index"/>
+    <file name="event snap286x360.jpg" crc="4125900356" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4063696889" seo="true" mt="1483358675635" redirect="true"/>
+</manifest>
